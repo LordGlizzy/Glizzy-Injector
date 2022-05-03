@@ -77,10 +77,10 @@ int main()
 	std::rename(path().c_str(), name.c_str());
 	getrandomnumber(title, 32);
 	SetConsoleTitle(title);
-	std::cout << xor("\n\n    aaaaaaaaaaa#2000 & tappinecek - youtube.com/c/trappinkcc") << std::endl;
+	std::cout << xor("\n\n    glizzy injector yuh") << std::endl;
 	std::cout << xor("    loading driver") << std::endl;
 	startdriver();
-	std::cout << xor ("    waiting for fortniteclient-win64-shipping.exe") << std::endl;
+	std::cout << xor ("    waiting for fortniteclient-win64-shipping.exe aka open your fucking fortnite") << std::endl;
 	while (fnt == NULL)
 	{
 		fnt = FindWindowA(0, "Fortnite  ");
